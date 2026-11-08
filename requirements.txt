@@ -1,0 +1,13 @@
+# Data processing
+pandas==3.1.1
+numpy==2.5.4
+pyarrow==26.0.1
+
+# PostgreSQL
+SQLAlchemy==2.1.8
+psycopg2-binary==2.9.13
+pgserver==0.1.4
+
+# Jupyter Notebook and SQL Magic
+ipykernel==7.4.0
+ipython-sql==0.5.0
